@@ -1,1 +1,28 @@
 /* google fonts */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.textpurple{
+    color: rgba(124, 78, 228, 1);
+}
+.bgpurple{
+    background-color: rgba(124, 78, 228, 1);
+}
+.btnoutline{
+    border: 1px solid rgba(124, 78, 228, 1);
+
+}
+.bgimage{
+    width: 1200px;
+    height: 600px;
+    background-image: url("./assets/bg1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ border-radius: 15px;
+} 
+   
