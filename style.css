@@ -71,4 +71,7 @@
     width: 100%;
     margin-left: 30px !important;
   }
+  .cards{
+    width: 300px !important;
+  }
 }
