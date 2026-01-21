@@ -25,6 +25,12 @@
     background-size: cover;
  border-radius: 15px;
 } 
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(124, 78, 228, 1);
+}
 
 @media screen and (max-width: 768px) {
     .bgimage{
